@@ -1,1 +1,1 @@
-TinDog Starting Files
+Test page for web development course (Section 7 - Intermediate Bootstrap)
